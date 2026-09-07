@@ -4,6 +4,8 @@
 
 ## 研究内容在哪里
 
+最新：[Agent 组成与研究方向补充地图](./agent-components-research-2026-09-07.md)（2026-09-07，待讨论）。补充规划与决策、工具接口、环境感知、评估验证、学习适配、人机协作、推理服务七类问题；待确认训练/部署范围、交付形态和 computer use 范围。
+
 | 文档 | 已记录的内容 |
 |---|---|
 | [Agent 安全专题：主线、痛点、技术与硬件关联](./agent-security-research-2026-09-06.md) | 行业及学术七条主线，Claude/Codex/DSH/DeerFlow 实践边界，GPU、AMD、Arm 关联；前两部分不讨论硬件 |
